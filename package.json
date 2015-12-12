@@ -1,6 +1,6 @@
 {
   "name": "zanner-manager-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "core manager",
   "main": "index.js",
   "directories": {
@@ -16,10 +16,13 @@
     "manager"
   ],
   "dependencies": {
+    "async": "^1.5.0",
+    "fs": "0.0.2",
+    "path": "^0.12.7",
     "util": "^0.10.3",
     "zanner-logger": "^1.0.4",
     "zanner-manager-alias": "^1.0.3",
-    "zanner-manager-middle": "^1.0.10",
+    "zanner-manager-middle": "^1.0.12",
     "zanner-manager-reply": "^1.0.3",
     "zanner-typeof": "^1.0.4"
   },
