@@ -1,6 +1,6 @@
 {
   "name": "zanner-manager-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "core manager",
   "main": "index.js",
   "directories": {
@@ -23,5 +23,13 @@
     "zanner-manager-reply": "^1.0.3",
     "zanner-typeof": "^1.0.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergej-kucharev/zanner-manager-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sergej-kucharev/zanner-manager-core/issues"
+  },
+  "homepage": "https://github.com/sergej-kucharev/zanner-manager-core#readme"
 }
